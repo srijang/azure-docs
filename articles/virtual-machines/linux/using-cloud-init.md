@@ -7,8 +7,8 @@ ms.subservice: extensions
 ms.collection: linux
 ms.workload: infrastructure-services
 ms.topic: how-to
-ms.date: 02/14/2021
-ms.author: danis
+ms.date: 04/23/2021
+ms.author: srijangupta
 
 ---
 # cloud-init support for virtual machines in Azure
